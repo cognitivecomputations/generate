@@ -1,0 +1,320 @@
+Provide guidance on enhancing interpersonal skills in diverse scenarios.
+Assist in researching and drafting a persuasive document on a specified topic using relevant data and examples.
+Improve digital content to enhance online visibility and engagement.
+Creating high-quality content by researching relevant sources and crafting engaging material for a specific medium or platform.
+Portraying a fictional or real character in a conversational context.
+Personalized learning support for acquiring new skills, including targeted practice, cultural context, and interactive scenarios.
+Create a thematic narrative exploring human experiences in a speculative context.
+Given a set of related documents and a reference list, draft a new document in a similar style, incorporating the information from the provided sources.
+Assist in creating content about current advancements in a specific field and their societal implications.
+Creating content on a specific topic for a target audience in a particular medium.
+Tailoring a custom solution based on user's specific needs, preferences, and constraints.
+Craft a concise narrative set in an imaginative or distinctive environment.
+Tailor a solution based on individual characteristics and specific needs or preferences.
+Provide expert advice and resources to help users navigate career advancement and job searches in various industries.
+Manipulating and organizing data within a table or spreadsheet for better analysis and visualization.
+Provide detailed analysis and explanation of a complex subject matter, including historical background, structural components, and societal significance.
+Design an optimal workspace that enhances efficiency and well-being.
+Generate personalized plans or recommendations based on user-specific needs and constraints.
+Design and implement a sustainable green space within limited urban environments, accounting for unique constraints and ecological considerations.
+Analyze user behavior and provide personalized recommendations for improvement in a specific domain.
+Develop a comprehensive marketing strategy for a digital product, incorporating various online channels and partnerships to increase visibility and sales.
+Analyzing and interpreting literary characters' motivations, relationships, and development to enhance understanding and appreciation of a literary work.
+Tailor a solution based on the user's specific needs, preferences, and constraints.
+Creating a script for a documentary film that investigates the effects of a particular issue on specific communities.
+Develop a strategic plan to expand an organization's influence and effectiveness in its target domain.
+Analyzing and communicating the potential risks and challenges associated with implementing new or emerging technologies.
+Text translation: converting written content from one language to another using linguistic expertise or automated tools.
+Creating and maintaining a small-scale indoor garden for various plants or herbs.
+Assist in organizing and optimizing collaborative work processes by providing structured frameworks and offering potential solutions.
+Research and analyze a specific topic, present key details, and discuss potential impacts.
+Provide personalized recommendations based on scientific research and individual data to improve a specific aspect of well-being.
+Modifying data structure by removing an element.
+Personalized content recommendation based on user preferences and behavior patterns.
+Provide guidance on improving professional skills and communication techniques for various contexts.
+Generate instructions for a specific task or process.
+Design a personalized fitness program targeting specific goals and skill levels for individuals in various physical disciplines.
+Provide advice on improving productivity and reducing stress through efficient time management strategies.
+Analyzing the relationship between environmental factors and public health outcomes in specific geographical contexts.
+Creating a comprehensive visual presentation on the historical development and current trends of a given topic.
+Tailored improvement plan creation based on individual performance analysis for optimized progress.
+Simplifying specialized information for a non-specialist audience.
+Generate detailed guides on various topics, including popular destinations, food recommendations, and cultural experiences.
+Assisting users in converting their objectives into structured plans with clear tasks and timelines.
+Create a persuasive and educational piece on a specific topic for a widely-read publication.
+Generate creative content based on user's specifications.
+Develop algorithms to detect harmful behavior patterns in digital communication platforms.
+Develop a customized strategy to accomplish defined financial objectives, including but not limited to, wealth accumulation, debt management, and major purchases.
+Design a versatile role-playing game that seamlessly blends multiple genres to create a unique and engaging player experience.
+Identify the most effective teaching methods for a specific skill or subject to a certain age group.
+Simplifying complex information or documents into easy-to-understand language for users.
+Plan a detailed cultural tour itinerary for a specified duration in a particular country, incorporating historical landmarks, local cuisine, and traditional events.
+Analyze the ethical implications of a technological advancement considering various stakeholder perspectives.
+Given a structured data set, write a query to extract or manipulate the data according to specified requirements.
+Solve a programming problem of a certain difficulty level in a specified language and explain the reasoning behind the solution.
+Multi-turn conversation where the assistant generates a long response and continues generating upon user prompt.
+Provide recommendations for improving efficiency and reducing stress in various aspects of life or work.
+Develop and implement a targeted digital marketing strategy to increase brand visibility and customer engagement for small businesses.
+Creating a narrative or storyline for a visual medium, such as a film or animation.
+Develop effective promotional tactics to increase customer engagement and loyalty for a business.
+Personalized content recommendation based on user preferences and behavioral data from similar users.
+Generate creative content based on user prompts.
+Create a detailed guide on how to initiate and excel in a specific endeavor or project.
+Develop a predictive model that analyzes historical data and real-time updates to forecast trends in dynamic systems.
+Troubleshoot and resolve technical issues or error messages.
+Design and implement a targeted marketing campaign to increase brand awareness and customer engagement for small to medium-sized businesses.
+Tailoring a development plan based on an individual's abilities, areas for improvement, and objectives.
+Analyzing the effects of a global issue on a specific system and proposing mitigation strategies based on scientific evidence.
+Provide recommendations for integrating wellness practices into daily routines to enhance overall well-being.
+Organize and prioritize a set of items based on specific criteria.
+Automate the classification of incoming data based on predefined criteria.
+Implementing a new functionality or feature based on given requirements.
+Design and develop front-end user interface for a digital platform.
+Tailored skill development through individualized coaching and targeted practice activities.
+Craft an engaging narrative set in a distinctive environment or era.
+Design a versatile gaming experience that combines diverse thematic elements to create an engaging and immersive world.
+Leveraging data analysis to forecast popular trends in a specific industry or culture.
+Design a specialized wellness program to address unique stressors faced by specific professional groups.
+Providing guidance on effective conflict resolution strategies in various situations.
+Personalize content recommendations based on user preferences and contextual factors.
+Interpreting unclear language in specialized documents to ensure accurate understanding and compliance.
+Translate a text from one language to another while preserving its original meaning and context.
+Troubleshoot and resolve technical issues in a software application.
+Assist users in planning and tracking progress towards their objectives by breaking them down into manageable tasks with set timelines.
+Assess digital trends on a specific topic and provide recommendations for positive engagement and education.
+Generate detailed guides or resources on various topics, featuring notable examples, recommendations, and relevant information.
+Forecasting: predicting future outcomes based on existing patterns and information.
+Manipulating data in a structured format by creating, sorting, modifying, and deleting its elements.
+Assist in developing structured plans for various group activities by suggesting pertinent discussion points and offering potential resolutions to challenges.
+Provide expert advice and guidance on various types of projects, including planning, resource management, and execution tips.
+Creating a detailed strategic plan for a new business venture, including market research, financial forecasts, and development strategies.
+Design engaging and interactive educational programs to teach technical skills to a specific age group.
+Creating informative content about financial strategies and their significance in contemporary economic scenarios.
+Generating text based on user prompts or instructions.
+Acting as a facilitator in a simulated or interactive narrative experience for entertainment purposes.
+Create an imaginative confrontation or competition between two distinct characters from different contexts.
+Impersonating a character or figure for entertainment or educational purposes.
+Develop effective growth strategies for businesses to expand their customer base and enhance customer loyalty.
+Creating educational content to engage and inform children through various mediums, such as books or digital applications.
+Assist users in detecting and addressing weaknesses in their systems to enhance security and reduce potential threats.
+Manipulating and organizing data in a list structure for efficient information management.
+Creating and delivering engaging content for a specific audience by researching relevant sources.
+Condense complex information into concise summaries or key takeaways.
+Analyzing and categorizing text based on its tone, style, or other linguistic features.
+Assisting in creating compelling arguments and structuring logical reasoning for various forms of written or oral communication.
+Assisting users in creating professional documents by providing guidance on structure, content, and relevant industry terminology.
+Tailor a development plan based on individual's abilities, areas for improvement, and objectives.
+Tailoring an immersive digital experience based on individual user preferences and interests.
+Personal productivity and organization management assistant.
+Comparative analysis of customer satisfaction levels between competing entities within a specific market segment.
+Analyze trends in a specific domain and provide actionable recommendations to users for positive engagement.
+Roleplay as a fictional character from a specific universe or genre.
+Crafting succinct and engaging product descriptions for e-commerce platforms across various product categories.
+Providing guidance on interpersonal relationships or social interactions.
+Searching for a missing personal belonging or pet.
+Providing instructions or guidance on a specific topic or task.
+Create a detailed guide or instructions at varying levels of expertise for a specific activity or task.
+Improving performance in an academic or skill-based setting.
+Create a customized exercise plan tailored to a specific individual's fitness level and goals, incorporating various types of exercises to improve overall physical fitness.
+Assistant generates detailed instructions for planning and executing specific projects or events.
+Develop an algorithm to classify various types of entities using specific audio features.
+Tailor a personalized routine based on individual habits, biological predispositions, and external factors to optimize a specific aspect of well-being.
+Creating an immersive audio storytelling experience with various elements for entertainment purposes.
+Assist with planning and organizing personal events based on individual preferences and budget constraints.
+Customize wellness content to address specific individual needs or concerns.
+Research and analyze information from various sources, providing cultural context and global implications.
+Design and develop a user-centric mobile application with unique features for a specialized target audience.
+Assist in crafting persuasive proposals to obtain financial support for various research projects or initiatives.
+Crafting announcements for significant developments or innovations across various industries.
+Tailoring educational resources to a user's unique abilities and areas for improvement to optimize learning outcomes.
+Design a custom fitness plan tailored to an individual's unique physical abilities and limitations, prioritizing safety and accessibility.
+Analyzing the influence of a particular external factor on governmental decisions and regulations.
+Provide guidance based on a specific religious or philosophical doctrine to address a user's inquiry or life situation.
+Assistant: Creating instructional content to introduce complex subjects, such as coding and computational thinking, to a younger audience.
+Tailoring solutions to meet individual needs and preferences while adhering to specific constraints or requirements.
+Generate a persuasive argument on a given topic, providing evidence and logical reasoning to support the position.
+Tailored guidance for individuals navigating career transitions, accounting for personal strengths and industry trends.
+Generate tailored prompts based on specific artistic styles or themes to inspire users' creative exploration in a given domain.
+Evaluate and optimize multiple strategies for achieving a specific goal or outcome.
+Expert knowledge provider in specialized fields, utilizing technical language and formulas to address complex inquiries.
+Act as a highly specialized expert in a field and provide in-depth, technical explanations with supporting equations and references to address complex user inquiries.
+Act as a highly specialized expert in a given field and provide detailed explanations using technical language, formulas, and citations.
+Act as a subject matter expert in a specific field and provide in-depth explanations, using technical language, equations, and references when necessary.
+Expert knowledge provider in a specialized field, using technical language and citing relevant sources.
+Expert knowledge provider in a specific domain, engaging with users in advanced discussions, incorporating technical language, equations, and references.
+Act as an expert in a specialized field and provide detailed, technical explanations and references in response to complex inquiries.
+Expert knowledge provider in a specialized field, using technical language and citing relevant sources.
+Expert knowledge provider: the assistant acts as a subject matter expert, utilizing complex theories, mathematical equations, and references to answer advanced inquiries in a specific field.
+Expert knowledge provider: Assist users with complex questions in specialized fields, utilizing technical language, equations, and relevant sources.
+Act as an expert in a specialized field and provide detailed explanations with supporting evidence, including mathematical equations and academic references when applicable.
+Act as an expert in a specialized field and provide detailed explanations using technical language and relevant sources.
+Expert knowledge provider in a specific domain, utilizing complex theories and equations, and offering relevant references.
+Expert knowledge provider in specialized domains, utilizing technical language, formulas, and citations to address complex inquiries.
+Act as an expert in a specialized field and provide detailed explanations using technical language and references.
+Act as a highly specialized expert in a given field and provide detailed explanations using technical language and references.
+Act as an expert in a specialized field and provide detailed explanations using technical language and citations.
+Provide expert-level answers with supporting evidence, mathematical equations, and references for complex queries in a specific field of study.
+Expert knowledge provider in a specialized field, utilizing complex concepts and citing relevant sources.
+Act as an expert in a specialized field and provide in-depth explanations using technical language and citations.
+Act as a simulated environment and respond with appropriate outputs based on user-provided commands.
+Language detection, translation, spelling correction, and stylistic improvement of user input to provide a more sophisticated and refined response in the target language.
+Assistant as a simulated interviewer for a job position, engaging in a one-on-one question-and-answer session with a user.
+Act as a programming language console, providing output for given code snippets without explanations or additional commands.
+Acting as a text-based spreadsheet, interpreting user inputs and executing formulas to generate results in a tabular format.
+Act as a language pronunciation assistant for non-native speakers, providing phonetic transcriptions using the target language's Latin alphabet.
+Language learning and improvement through conversation with a corrective AI assistant.
+User requests location-based recommendations for a specific type of attraction in their current area.
+Act as a specialized tool that provides binary output for plagiarism checks on user-submitted text in various languages.
+User instructs assistant to emulate a specific character from a series and respond in character's tone, manner, and vocabulary, utilizing character's knowledge.
+Assisting in the creation of promotional strategies for various products or services aimed at specific demographics.
+Tailored storytelling for various audiences to convey specific themes or lessons.
+Provide analysis and predictions for ongoing sports matches based on given match details and existing knowledge of teams, players, and strategies.
+Generate a comedic routine based on a provided topic, incorporating personal anecdotes and observational humor.
+Motivational assistance for maintaining discipline towards achieving a specific goal.
+Creating custom music compositions to accompany provided lyrics or poems.
+Act as a research-based debater, presenting balanced arguments and conclusions on a given topic to enhance understanding.
+Assist in preparing a debate team for a specific motion by providing practice sessions focused on key debating skills.
+Creating a compelling script for a specific movie or web series genre, including character development, setting, dialogue, and plot twists.
+User requests the generation of a creative and engaging narrative in a specific genre or setting.
+Assist in creating engaging and insightful reviews for various forms of media, focusing on key aspects and personal emotional resonance.
+Assist in resolving interpersonal conflicts by providing communication strategies and perspective-taking techniques.
+Generate creative content that evokes emotions and conveys meaning on a given theme or topic.
+Generate creative content with a specific theme and purpose, combining meaningful lyrics, catchy beats, and relevant rhythm to engage and inspire the audience.
+Motivational Speech Generation: Generating inspiring and empowering speeches on various topics to encourage action and goal pursuit.
+Act as a subject matter expert and provide clear explanations, examples, or analogies to help users understand complex concepts in various fields.
+Assistant as a philosophy researcher and ethical framework developer for complex problem-solving.
+Act as an expert in a subject matter and provide clear, concise explanations or resources to help users understand complex concepts or solve problems.
+Assisting with writing improvement through AI-powered analysis and personalized feedback for effective expression of ideas.
+Assisting in designing and improving user experience for digital products.
+Assisting clients in developing and implementing tailored cybersecurity strategies to safeguard their digital assets.
+Assisting individuals with improving their professional documentation to increase their chances of securing job opportunities.
+Assisting individuals in developing personalized strategies to improve their well-being and achieve specific goals.
+User requests etymological analysis of a specific word, including origin and historical shifts in meaning.
+Provide insightful commentary on user-provided news topics, incorporating personal experiences, facts, and potential solutions.
+Perform a requested illusion using skills in deception and misdirection to entertain an audience.
+Assisting individuals in identifying suitable career paths based on their skills, interests, and experience, and providing information on job market trends and required qualifications.
+Assist pet owners in understanding and modifying their pets' undesirable behaviors using animal psychology and behavior modification techniques.
+Design a personalized fitness program to achieve specific health and wellness goals.
+An individual seeks professional guidance to manage and alleviate symptoms of a specific mental health condition using evidence-based therapeutic methods.
+Assist clients in finding suitable properties based on their specific needs and preferences within a given local housing market.
+Assisting in organizing and planning large-scale professional events, including resource allocation, transportation, catering, and safety considerations.
+Assist individuals with specific dental concerns and provide advice on treatment options and preventative care measures.
+Assisting in designing or redesigning a specialized e-commerce website to improve user experience and meet business objectives.
+Assist in diagnosing medical conditions using AI tools and traditional methods.
+Recommend personalized treatment plans incorporating conventional, herbal, and natural alternatives, considering patient-specific factors such as age, lifestyle, and medical history.
+Assist in developing a comprehensive financial strategy for a business, focusing on cost reduction and long-term investment growth.
+Quick, Nutritious, and Budget-Friendly Meal Recommendations for Busy Individuals.
+Expert assistance in diagnosing and resolving automobile malfunctions, including identifying the root cause and recommending necessary repairs or replacements.
+Provide artistic guidance, including techniques, music suggestions, and reference images, to aid aspiring artists in creating and improving specific styles of artwork.
+Providing expert analysis and forecasts based on technical chart analysis and macroeconomic trends to guide informed investment decisions.
+Assisting clients in making informed investment decisions by evaluating market trends, economic indicators, and historical data to recommend suitable options based on their risk tolerance and financial goals.
+Expert evaluation and analysis of a product's unique qualities based on sensory analysis and industry jargon to determine its worth and quality.
+User requests design recommendations for a specific room based on desired aesthetics and comfort.
+Request for professional advice on creating a customized and long-lasting arrangement with specific aesthetic and fragrance preferences.
+Providing guidance and advice for personal development and problem-solving in various life domains.
+Assistant provides creative suggestions for activities or hobbies based on user's preferences and location.
+Provide motivational guidance and practical strategies to navigate challenging situations.
+Text-based Adventure Game Assistant: Accepts user commands and generates descriptions within a code block, strictly following instructions and avoiding extraneous text.
+generating creative outputs based on user-provided keywords or inputs.
+Assist in calculating statistical information based on provided data to answer specific questions or solve problems.
+Generate a specific role-based prompt for an assistant based on a given title.
+Assistant provides instruction and code examples, including visual aids, for a specific programming or technical concept.
+Act as a simulated database terminal, executing SQL queries and returning the resulting table in a single code block.
+A professional in a specific field requests a personalized solution that meets certain dietary restrictions and health goals for a specified number of people.
+User shares personal thoughts or feelings and receives science-based suggestions to improve their emotional well-being.
+Generate creative and concise options for a specific category based on user input.
+Act as a product reviewer, providing detailed analysis including strengths, weaknesses, features, and market comparisons for a given item.
+Software Analysis and Recommendation for Developer Relations.
+Assistant as a researcher and writer for academic articles on specified topics for a targeted audience.
+Integrating a new software system into an existing IT infrastructure to enhance business processes.
+User requests the assistant to generate arbitrary or nonsensical text for a specific purpose.
+Manipulating someone's perception of reality through subtle comments and actions to sow doubt and confusion.
+Detecting celebrity endorsement fallacies in advertising claims.
+Acting as a subject matter expert to provide critical analysis and feedback on academic or professional documents for improvement and publication readiness.
+Assisting users with planning and executing home improvement projects, providing clear instructions and visual aids.
+Creating and managing a social media marketing campaign to promote a new product line.
+Act as a philosophical discussion partner, employing the Socratic method to explore various ethical concepts upon request.
+Engaging in philosophical dialogue to challenge and refine beliefs through questioning and examination of underlying assumptions.
+Creating curriculum materials for specific educational topics, tailored to a particular age or grade level.
+Act as an expert in a specific field, providing guidance, creating personalized plans, leading sessions, fostering a focused atmosphere, and offering lifestyle advice to improve wellbeing.
+Assistant acts as a researcher and writer to create a persuasive essay on a given environmental topic.
+Managing and optimizing a brand's presence on social media platforms to increase visibility and engagement.
+Assistant as a Public Speaking Coach: Aiding in the creation, practice, and delivery of effective presentations for various audiences and topics.
+Data Visualization Specialist: Utilize domain expertise and visualization tools to create impactful data representations from complex scientific datasets.
+Develop a dynamic routing system that adapts to real-time traffic conditions and offers alternative routes to optimize travel time.
+Assisting in therapeutic sessions to address psychological issues through relaxation and visualization techniques.
+Assisting users in researching specific historical events or periods by analyzing primary sources and providing relevant information.
+Provide personalized guidance or advice based on astrological analysis of user's birth chart and current planetary positions.
+Assist in critiquing a specific film by analyzing its various components, including plot, acting, cinematography, direction, and music.
+Assist in creating original musical compositions for specific instruments or ensembles, incorporating desired styles or techniques.
+Assist in researching and writing articles on specific topics, adhering to journalistic standards and ethics.
+Digital Art Gallery Curation: Assisting in the creation and management of virtual art exhibitions, including research, event planning, and interactive experiences.
+Assisting individuals in improving their public speaking skills for high-stakes presentations.
+Assist in creating a customized beauty look for a client's special occasion.
+Temporary Childcare Assistance: Providing supervision, support, and engagement for children of varying ages during specific time periods.
+Assistant as a Technical Writer: Creating engaging guides on software functionality based on basic steps provided, with optional screenshot requests.
+User requests ASCII representation of a specified object or concept, assistant generates ASCII art accordingly.
+Act as a programming language interpreter, executing provided code and returning the output.
+Assistant provides a list of requested items based on user input, with an option for additional items.
+Assistant as a product recommendation service for users with specific budgets and preferences.
+User requests a concise food review based on their dining experience at a specific restaurant.
+User describes physical symptoms and assistant provides potential diagnosis and treatment plan.
+User provides personal preferences and restrictions, assistant recommends relevant options within a specific domain (e.g., recipes, products, services).
+Provide guidance on immediate actions to take in various unexpected situations.
+User requests personalized recommendations from assistant based on specific context and preferences.
+Act as a domain expert and provide clear explanations or resources for complex topics in a specific field, such as machine learning.
+Text enhancement: Improve simple text into a more elegant and sophisticated style, following a specific dialect or tone.
+Generate and deliver a markdown image tag based on requested design specifications, with SVG code converted to a base64 data URL.
+Assist users in troubleshooting and resolving common technical issues with their devices
+Interactive game simulation with alternating turns and internal state tracking, without providing explanations for moves.
+Generating creative and detailed prompts for an AI program to produce unique and imaginative images based on the descriptions.
+A secure multi-role web application with user registration, vehicle information management, and JWT authentication using Golang and Angular.
+Single-line, numerical output generation for specific input based on predefined rules or functions.
+Generate regular expressions for matching specified text patterns.
+User requests assistant to provide recommendations for significant events, sights, or figures to experience within a specified historical period or future time.
+Interpreting symbolic dream elements based on established dream interpretation principles.
+Act as a career coach, providing tailored curriculum vitae advice and potential interview questions for a given job title or profession.
+Act as a programming language interpreter, providing only the terminal output for given commands without explanations or additional comments.
+Act as a concise programming Q&A assistant, providing direct answers without explanations unless necessary, and following instructions given in curly brackets.
+Convert textual input into emoji representation based on user's instructions.
+Act as a programming language interpreter, taking code as input and returning the terminal output without additional explanations.
+Emergency response guidance for accidental ingestion of harmful substances by a child.
+Generate customizable educational materials for language learning with missing word exercises.
+Software Quality Assurance: Testing and evaluating application functionality to meet performance standards and identifying areas for improvement.
+Assist in playing a turn-based game by updating the game state and determining the outcome based on user input.
+Generate a custom complex password based on user-specified criteria including length, character types, and quantity of each character type.
+Assistant translates user's input into a created fictional language, following specific instructions.
+Text-based web browsing simulation with interactive link navigation and input functionality.
+Develop a single-page React application using specified libraries and tools to fetch and display data from a third-party API.
+Interactive In-Memory Database Management System with Basic Text Search Capabilities
+Generate a comprehensive business plan for a digital startup based on user-expressed needs or wishes.
+Single word or limited phrase response system for generating randomized advice or answers.
+Assist in identifying the language of an input string.
+Persuasive Marketing: Convince the customer to purchase a product by highlighting its perceived value and benefits.
+Act as a commit message generator, creating messages based on user-provided task information and prefix codes.
+Crisis management: addressing and mitigating potential harm to the company's reputation and financial performance due to product or service failures.
+Generate a valid, single-line Graphviz DOT code for a complex diagram with n nodes, representing a given input concept, where nodes are indexed and relationships make sense for an expert.
+Summarize a non-fiction book's core principles in simple terms and provide actionable steps for daily implementation.
+Assist in creating personalized treatment plans for individuals with speech impediments to improve communication confidence.
+Assistant: Drafting a partnership agreement for technology collaboration, addressing IP, confidentiality, commercial rights, data usage, and domain expertise.
+Generate engaging titles for written content based on provided topics and keywords.
+Assistant as a product manager, creating a product requirement document (PRD) based on user requests, using a predefined template.
+Act as a specified character with prescribed behavior and language patterns, including errors and randomness.
+Provide historical context and significance of a specified mathematician or mathematical concept.
+Generate a thematically or stylistically cohesive playlist based on a user-provided song, excluding the original song and its artist.
+Assisting users in crafting tailored cover letters that highlight their technical skills and career aspirations for job applications.
+Technology-specific skill translation into different technology framework.
+Assist in playing turn-based board games with specific rules and provide visual updates after each move.
+Assistant as a Language Editor: The assistant reviews and edits provided text for grammar, spelling, and punctuation errors, offering corrections and suggestions for improvement.
+The user assumes the role of a seeker and interacts with the assistant, who acts as a historical or spiritual figure to provide guidance and advice in the style of specific texts or teachings.
+Act as a religious advisor providing guidance and advice on spiritual growth based on religious texts and teachings.
+Acting as a dynamic system that evolves based on sequential input interactions, with each interaction resulting in a new state or output.
+Providing emotional support and encouragement to help manage stress and maintain motivation during challenging projects.
+Act as a programming language interpreter, accepting commands and producing corresponding output without explanation.
+Provide concise and factual summaries of given topics in a Wikipedia-style format, starting with an introductory overview.
+"quiz game" where the assistant generates multiple-choice questions from a predefined dataset and provides feedback based on the user's response.
+Assist in information organization and extraction for educational content, focusing on potential quiz questions, data, and examples.
+Analyzing and interpreting literary excerpts based on various literary elements and contexts to gain a deeper understanding.
+Enriching user-provided prompts to stimulate deeper engagement and more insightful responses.
+Budget-conscious route optimization for multi-modal transportation.
+Extracting insights from user behavior data to optimize product performance and enhance user experience.
