@@ -9,3 +9,7 @@ ollama pull dolphin-mixtral
 pip install ollama
 python generate-usecase-chats.py
 ```
+
+example output:
+
+![image](https://github.com/cognitivecomputations/generate/assets/1117701/d33b0edc-c709-46d8-a489-caedfa7387ba)
