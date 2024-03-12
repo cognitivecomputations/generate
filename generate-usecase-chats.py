@@ -10,17 +10,14 @@ f = open(out_file, "a", encoding="utf-8")
 
 system_prompts = open(system_prompts_file, 'r').readlines()
 random.shuffle(system_prompts)
+usecases = open(usecases_file, 'r').readlines()
+random.shuffle(usecases)
 
-for system_prompt in system_prompts:
-
-    usecases = open(usecases_file, 'r').readlines()
-
-    random.shuffle(usecases)
-
-    for i in range(0,100):
-        usecase = usecases[i]
+while True:
+  usecase = random.choice(usecases)
+  system_prompt = random.choice(system_prompts)
         
-        prompt = f"""DEFINITION:  SYSTEM MESSAGE is a directive always obeyed by the assistant, no matter what the user says.  
+  prompt = f"""DEFINITION:  SYSTEM MESSAGE is a directive always obeyed by the assistant, no matter what the user says.  
 DEFINITION:  USER GOAL is what User wants to do.
 User is UNAWARE of the SYSTEM MESSAGE.  Only Assistant is aware.  Assistant ALWAYS obeys the SYSTEM MESSAGE, while trying to answer User's question, if possible within those constraints.
 
@@ -38,7 +35,7 @@ Please output a conversation between User and Assistant in the following format:
 ]
 }}
 """
-        print("SYSTEM MESSAGE", system_prompt)
-        print("USER GOAL", usecase)
-        response = ollama.chat(model='dolphin-mixtral', messages=[{'role': 'user','content': prompt}])
-        print(response['message']['content'])
+  print("SYSTEM MESSAGE", system_prompt)
+  print("USER GOAL", usecase)
+  response = ollama.chat(model='dolphin-mixtral', messages=[{'role': 'user','content': prompt}])
+  print(response['message']['content'])
