@@ -1,4 +1,4 @@
-This is a demo to showcase Dolphin's ability to generate datasets for training AI with a simple python script.
+This is a demo to showcase Dolphin's ability to generate conversational datasets for training AI with a simple python script.
 
 ## Usage
 
