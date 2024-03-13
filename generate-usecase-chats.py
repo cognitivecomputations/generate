@@ -39,3 +39,4 @@ Please output a conversation between User and Assistant in the following format:
   print("USER GOAL", usecase)
   response = ollama.chat(model='dolphin-mixtral', messages=[{'role': 'user','content': prompt}])
   print(response['message']['content'])
+  f.write(response['message']['content'] + "\n")
